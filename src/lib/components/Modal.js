@@ -18,8 +18,6 @@ const Modal = (props) => {
       </div>
     )
   }
-  return (<ReactCSSTransitionGroup  transitionName="modal"
-  transitionEnterTimeout={500}
-  transitionLeaveTimeout={300} >{ret}</ReactCSSTransitionGroup>)
+  return (<div>xon roif</div>)
 }
 export default Modal;
