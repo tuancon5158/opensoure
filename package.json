@@ -23,10 +23,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/devaman/react-simplified-modal.git"
+    "url": "https://github.com/tuancon5158/opensoure.git"
   },
   "bugs": {
-    "url": "https://github.com/devaman/react-simplified-modal/issues"
+    "url": "https://github.com/tuancon5158/opensoure.git"
   },
   "browserslist": [
     ">0.2%",
@@ -44,12 +44,12 @@
     "react",
     "with transitions"
   ],
-  "author": "Amit Chambial <chambialamit@gmail.com>",
+  "author": "Tuaasn con <1312121@gmail.com>",
   "contributors": [
     {
-      "name": "Amit Chambial",
-      "email": "chambialamit@gmail.com",
-      "url": "https://amitchambial.netlify.com"
+      "name": "tuancon",
+      "email": "2016769@gmail.com",
+      "url": "https://github.com/tuancon5158/opensoure.git"
     }
   ]
 }
