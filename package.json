@@ -1,6 +1,6 @@
 {
-  "name": "react-simplified-modal",
-  "version": "0.1.7",
+  "name": "tuancon",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
