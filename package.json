@@ -1,0 +1,55 @@
+{
+  "name": "react-simplified-modal",
+  "version": "0.1.7",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build-examples": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "build": "rimraf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,__snapshots__"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "babel-preset-react-app": "^7.0.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "^2.1.5",
+    "rimraf": "^2.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devaman/react-simplified-modal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devaman/react-simplified-modal/issues"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "react-addons-css-transition-group": "^15.6.2"
+  },
+  "keywords": [
+    "modal",
+    "simple modal",
+    "backdrop modal",
+    "react",
+    "with transitions"
+  ],
+  "author": "Amit Chambial <chambialamit@gmail.com>",
+  "contributors": [
+    {
+      "name": "Amit Chambial",
+      "email": "chambialamit@gmail.com",
+      "url": "https://amitchambial.netlify.com"
+    }
+  ]
+}
